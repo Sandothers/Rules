@@ -5,4 +5,4 @@ DOMAIN, tracker.byr.cn, IPv6
 # 六维空间
 DOMAIN, bt.neu6.edu.cn, IPv6
 # -> 北洋园PT
-DOMAIN-SUFFIX, tjupt.org, IPv6
+# DOMAIN-SUFFIX, tjupt.org, IPv6
